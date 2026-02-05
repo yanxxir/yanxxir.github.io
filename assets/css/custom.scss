@@ -1,0 +1,8 @@
+/* Custom background for site (persistent)
+   Place your image at: /assets/img/background.jpg
+*/
+
+body {
+  background: url('/assets/img/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
